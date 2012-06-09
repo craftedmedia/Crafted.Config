@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<configuration>
+	<configSections>
+		<section name="SampleConfig" type="Sample.SampleConfig" />
+	</configSections>
+	<SampleConfig SampleAttribute="Sample">
+		<SampleConfigItem>This text</SampleConfigItem>
+		<SampleConfigItemWithAttributes isHtml="true">This text</SampleConfigItemWithAttributes>
+		<SampleProperty SampleAttribute="Sample" />
+		<SampleList SampleBoolean="true">
+			<SampleItem Key="key1" SampleInt="0">Sample</SampleItem>
+			<SampleItem Key="key2" SampleInt="0">Sample</SampleItem>
+			<SampleItem Key="key3" SampleInt="0">Sample</SampleItem>
+			<SampleItem Key="key4" SampleInt="0">Sample</SampleItem>
+			<SampleItem Key="key5" SampleInt="0">Sample</SampleItem>
+		</SampleList>
+	</SampleConfig>
+</configuration>

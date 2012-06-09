@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Crafted.Config</id>
+    <version>$version$</version>
+    <authors>John Folley</authors>
+    <owners>Crafted Media</owners>
+    <projectUrl>http://www.crafted.co.uk</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simplifies creating custom config sections with read / write access.</description>
+    <summary>Simplifies creating custom config sections with read / write access.</summary>
+    <releaseNotes>Crafted.Configuration namespace is the current implementation.
+
+Crafted.Config namespace is deprecated.</releaseNotes>
+    <language>en-US</language>
+    <copyright>Crafted Media 2012</copyright>
+	<frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework="" />
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Web" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework="" />
+    </frameworkAssemblies>
+	<tags>configuration</tags>
+  </metadata>
+</package>
