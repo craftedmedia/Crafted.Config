@@ -9,10 +9,12 @@ With this library, the steps to saving a configuration value back to the web.con
 
 To use, first of all, include the reference to the Crafted.Config assemby in your project.
 
-First, create your configuration class. This will be the same type as ones created using ConfigurationSections in .Net 2.0. 
+First, create your configuration class. This will be the same type as ones created using ConfigurationSections in .Net 2.0. Just decorate the class with a Crafted.Configuration.Attributes.ConfigSection attribute, with the name of the custom section you're building.
+
+Other than this the only differences lies in the additional ConfigElements that can be used such as DefaultTextConfigElement.
 
 ```  
-**[Crafted.Configuration.Attributes.ConfigSection("webConfig")]**  
+[Crafted.Configuration.Attributes.ConfigSection("webConfig")]  
 public class WebConfig : System.Configuration.ConfigurationSection {
 
 	[ConfigurationProperty("MyConfigValue", IsRequired = true, DefaultValue = "Nothing")]
