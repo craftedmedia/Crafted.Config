@@ -4,8 +4,8 @@
     <id>Crafted.Config</id>
     <version>$version$</version>
     <authors>John Folley</authors>
-    <owners>Crafted Media</owners>
-    <projectUrl>http://www.crafted.co.uk</projectUrl>
+    <owners>Crafted</owners>
+    <projectUrl>https://github.com/craftedmedia/Crafted.Config</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simplifies creating custom config sections with read / write access.</description>
     <summary>Simplifies creating custom config sections with read / write access.</summary>

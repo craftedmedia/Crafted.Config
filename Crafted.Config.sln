@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crafted.Config", "Crafted.C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Crafted.Config.Sample", "Crafted.Config.Sample", "{EFCA7536-1DE8-4620-872F-C3C77968DFEB}"
 	ProjectSection(SolutionItems) = preProject
-		Crafted.Config.Sample\Crafted.Config.SampleConfig.nuspec = Crafted.Config.Sample\Crafted.Config.SampleConfig.nuspec
+		Crafted.Config.Sample\Crafted.Config.Sample.nuspec = Crafted.Config.Sample\Crafted.Config.Sample.nuspec
 		Crafted.Config.Sample\Sample.cs = Crafted.Config.Sample\Sample.cs
 		Crafted.Config.Sample\SampleConfig.cs = Crafted.Config.Sample\SampleConfig.cs
 		Crafted.Config.Sample\Web.config.transform = Crafted.Config.Sample\Web.config.transform
