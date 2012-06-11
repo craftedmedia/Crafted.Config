@@ -3,12 +3,13 @@
   <metadata>
     <authors>John Folley</authors>
 	<owners>Crafted</owners>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
+    <projectUrl>https://github.com/craftedmedia/Crafted.Config</projectUrl>
     <dependencies>
       <dependency id="Crafted.Config" version="2.3.5" />
     </dependencies>
-    <id>Crafted.Config.SampleConfig</id>
-    <title>Crafted.Config SampleConfig</title>
+    <id>Crafted.Config.Sample</id>
+    <title>Crafted.Config Sample</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Provides an example of use for sample config.</description>
     <summary>Provides an example of use for sample config.</summary>
