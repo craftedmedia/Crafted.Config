@@ -76,3 +76,7 @@ using(Crafted.Configuration.Config<WebConfig> c = new Crafted.Configuration.Conf
 
 ### Deprecated ###
 Please note that the Crafted.Config is deprecated and is included for backward compatibilty.
+
+
+
+www.crafted.co.uk
